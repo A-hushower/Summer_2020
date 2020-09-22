@@ -1,2 +1,2 @@
 This code is used to initialize and run pretrained pyannote-audio pipelines on your data. 
-In combination with the tools in utils, a user has the ability to train and test the Pyannote-audio pretrained models on an annotated dataset.
+In combination with the tools in utils, a user has the ability to train and test the Pyannote-audio pretrained models on an annotated dataset. 
